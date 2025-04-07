@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GameZoneXtreme.net - #1 Gaming Authority!</title>
+  <style>
+    body { font-family: Comic Sans MS, cursive; background-color: #000; color: #0f0; }
+    header { background: #f00; padding: 20px; text-align: center; }
+    h1 { font-size: 48px; }
+    nav a { color: #fff; margin: 10px; text-decoration: underline; cursor: pointer; }
+    article { margin: 20px; padding: 20px; border: 2px dashed lime; }
+    footer { background: #222; color: #888; text-align: center; padding: 10px; margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GameZoneXtreme.net</h1>
+    <p>The Only TRUE Source for Gaming Knowledge™</p>
+    <nav>
+      <a href="#news">News</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#cheats">Cheat Codes</a>
+      <a href="#conspiracies">Gaming Truths</a>
+    </nav>
+  </header>
+
+  <main>
+    <article id="news">
+      <h2>BREAKING: Sony to Discontinue PlayStation and Focus on Board Games</h2>
+      <p>In an unexpected move, Sony announced they will cease all PlayStation production by next week to concentrate on a new line of board games including "Uno: Director's Cut" and "Jenga 2.0." Industry analysts are calling this "the biggest innovation since Pong."</p>
+    </article>
+
+    <article id="reviews">
+      <h2>Review: Grand Theft Auto VI (Leaked Early!)</h2>
+      <p>We played GTA VI early (don’t ask how) and we can confirm it features 12 cities, a pet dragon, and time travel. This game cured my fear of heights. 12/10.</p>
+    </article>
+
+    <article id="cheats">
+      <h2>Secret Code Unlocks Mario in Call of Duty</h2>
+      <p>To unlock Mario in Call of Duty: Warzone, press ↑↑↓↓←→←→B, say "It's-a me!" into your controller, and flush your router. It only works on Tuesdays.</p>
+    </article>
+
+    <article id="conspiracies">
+      <h2>REAL GAMING TRUTH: Minecraft Was Created by Aliens</h2>
+      <p>We uncovered documents that reveal Minecraft was originally a training simulation for alien civilizations. The creepers? Interdimensional spies.</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2025 GameZoneXtreme.net - Facts Optional</p>
+    <p>Disclaimer: Everything on this site is verified by our in-house psychic.</p>
+  </footer>
+</body>
+</html>
